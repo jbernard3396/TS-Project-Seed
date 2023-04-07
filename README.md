@@ -1,8 +1,13 @@
-# Typescript PacKage Seed
-This shoule have everything you need to start a new package for typescript development.
+# Typescript Package Seed
+This should have everything you need to start a new package for typescript development.
 
 # How to use
 Simply copy all of the files here into your project and global search through package.json for \<things that need replaced\>
+
+you can then run 
+`npm install` - to install dependencies 
+`npm run test` - to run tests
+`ctrl + shift + b` - to transpile the ts files
 
 # How can I contribute
 If you are looking to make improvements to this seed project, feel free to check for todo items on this trello board 
